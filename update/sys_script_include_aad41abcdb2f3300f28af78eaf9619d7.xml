@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_snc_test233.fyt</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>fyt</name>
+        <script><![CDATA[var fyt = Class.create();
+fyt.prototype = {
+    initialize: function() {
+    },
+
+    type: 'fyt'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-26 09:12:51</sys_created_on>
+        <sys_id>aad41abcdb2f3300f28af78eaf9619d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fyt</sys_name>
+        <sys_package display_value="test233" source="x_snc_test233">cc95393cdbab3300f28af78eaf96199c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test233">cc95393cdbab3300f28af78eaf96199c</sys_scope>
+        <sys_update_name>sys_script_include_aad41abcdb2f3300f28af78eaf9619d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-26 09:12:51</sys_updated_on>
+    </sys_script_include>
+</record_update>
